@@ -1,6 +1,6 @@
-# Raster Normalize v3 — Liquid Glass
+# Raster Normalize
 
-Apple-inspired liquid-glass visual theme, user ID `230430`, fixed multi-channel raster handling, GIS-ready GeoTIFF export, and requested dynamic output naming.
+liquid-glass visual theme, user ID `230430`, fixed multi-channel raster handling, GIS-ready GeoTIFF export, and requested dynamic output naming.
 
 Output naming:
 `OriginalFileName_Normalized_fileSize_230430.extension`
